@@ -26,6 +26,6 @@ Busco sempre aprender novas ferramentas e compartilhar conhecimento através de 
 ---
 
 ## Onde me encontrar
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/nayana-heslley-barbosa-oliveira-65796537b/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/nayana-heslley-barbosa-oliveira-65796537b/)  
 - 💻 [Portfólio](https://seusite.com)  
 - 📧 Email: **nayanaheslley123@gmail.com**
