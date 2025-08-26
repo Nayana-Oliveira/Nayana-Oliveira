@@ -17,13 +17,6 @@ Busco sempre aprender novas ferramentas e compartilhar conhecimento através de 
 
 ---
 
-## Projetos em destaque
-- 🔗 [Projeto 1](https://github.com/seuusuario/projeto1) – Breve descrição do projeto.  
-- 🔗 [Projeto 2](https://github.com/seuusuario/projeto2) – Breve descrição do projeto.  
-- 🔗 [Projeto 3](https://github.com/seuusuario/projeto3) – Breve descrição do projeto.  
-
----
-
 ## Estatísticas do GitHub
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
