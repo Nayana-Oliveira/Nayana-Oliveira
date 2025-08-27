@@ -30,6 +30,6 @@ Busco sempre aprender novas ferramentas e compartilhar conhecimento através de 
 ---
 
 ## Onde me encontrar
-- 💼Linkedin: Nayana Oliveira
-- 💻 [Portfólio](https://seusite.com)  
+- 💼[Linkedin]: Nayana Oliveira  
+- 💻 [Portfólio](https://portifolio-dev-ashen.vercel.app/)
 - 📧 Email: **nayanaheslley123@gmail.com**
