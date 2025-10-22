@@ -1,4 +1,4 @@
-# Olá, eu sou a Nayana
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=false&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Nayana;Sou+Desenvolvedora+Fullstack" alt="Typing SVG" /></a>
 
 Sou **Desenvolvedora Fullstack** apaixonada por tecnologia, inovação e pela criação de soluções que fazem a diferença.  
 Tenho experiência no desenvolvimento de aplicações web completas — do frontend ao backend — e gosto de transformar ideias em projetos reais e funcionais.  
