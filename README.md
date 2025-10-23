@@ -44,10 +44,10 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 | Projeto        | Descrição                                                                      | Link                                                                                  |
 | -------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| **Bosque Suporte** | Sistema de tickets de suporte (Help Desk) full-stack para a Escola Bosque.     | [🔗 Ver Demo](https://bosque-suporte.vercel.app/login) / [💻 Código](https://github.com/Nayana-Oliveira/Bosque-Suporte) |
-| **Stokki** | Sistema de gerenciamento de estoque completo para uso escolar ou empresarial.    | [🔗 Ver Demo](https://stokki.vercel.app/login) / [💻 Código](https://github.com/Nayana-Oliveira/Stokki)                  |
-| **Lumina** | Plataforma para gerenciar livros e filmes assistidos.                          | [🔗 Ver Demo](https://lumina-olive-seven.vercel.app/) / [💻 Código](https://github.com/Nayana-Oliveira/Lumina)              |
-| **Astrotech** | Landing page moderna e responsiva para empresa de tecnologia solar.            | [🔗 Ver Demo](https://nayana-oliveira.github.io/Astrotech/) / [💻 Código](https://github.com/Nayana-Oliveira/Astrotech)      |
+| **Bosque Suporte** | Sistema de tickets de suporte (Help Desk) full-stack para a Escola Bosque.     | [ Ver Demo](https://bosque-suporte.vercel.app/login) / [ Código](https://github.com/Nayana-Oliveira/Bosque-Suporte) |
+| **Stokki** | Sistema de gerenciamento de estoque completo para uso escolar ou empresarial.    | [ Ver Demo](https://stokki.vercel.app/login) / [ Código](https://github.com/Nayana-Oliveira/Stokki)                  |
+| **Lumina** | Plataforma para gerenciar livros e filmes assistidos.                          | [ Ver Demo](https://lumina-olive-seven.vercel.app/) / [ Código](https://github.com/Nayana-Oliveira/Lumina)              |
+| **Astrotech** | Landing page moderna e responsiva para empresa de tecnologia solar.            | [ Ver Demo](https://nayana-oliveira.github.io/Astrotech/) / [ Código](https://github.com/Nayana-Oliveira/Astrotech)      |
 
 *Você pode ver mais projetos no meu [portfólio completo](https://portifolio-dev-ashen.vercel.app/).*
 
