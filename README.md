@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=false&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Nayana;Sou+Desenvolvedora+Fullstack" alt="Typing SVG" /></a>
 
-Sou **Desenvolvedora Fullstack** apaixonada por tecnologia, inovação e pela criação de soluções que fazem a diferença.  
-Tenho experiência no desenvolvimento de aplicações web completas — do frontend ao backend — e gosto de transformar ideias em projetos reais e funcionais.  
+Sou **Desenvolvedora Fullstack** apaixonada por tecnologia, inovação e pela criação de soluções que fazem a diferença. 
+
+Tenho experiência no desenvolvimento de aplicações web completas — do frontend ao backend — e gosto de transformar ideias em projetos reais e funcionais. 
 
 Sempre em busca de aprimorar meus conhecimentos e explorar novas tecnologias.
 
@@ -37,9 +38,23 @@ Sempre em busca de aprimorar meus conhecimentos e explorar novas tecnologias.
 
 ---
 
+## Projetos em Destaque
+
+Aqui estão alguns dos projetos que desenvolvi:
+
+| Projeto        | Descrição                                                                      | Link                                                                                  |
+| -------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| **Bosque Suporte** | Sistema de tickets de suporte (Help Desk) full-stack para a Escola Bosque.     | [🔗 Ver Demo](https://bosque-suporte.vercel.app/login) / [💻 Código](https://github.com/Nayana-Oliveira/Bosque-Suporte) |
+| **Stokki** | Sistema de gerenciamento de estoque completo para uso escolar ou empresarial.    | [🔗 Ver Demo](https://stokki.vercel.app/login) / [💻 Código](https://github.com/Nayana-Oliveira/Stokki)                  |
+| **Lumina** | Plataforma para gerenciar livros e filmes assistidos.                          | [🔗 Ver Demo](https://lumina-olive-seven.vercel.app/) / [💻 Código](https://github.com/Nayana-Oliveira/Lumina)              |
+| **Astrotech** | Landing page moderna e responsiva para empresa de tecnologia solar.            | [🔗 Ver Demo](https://nayana-oliveira.github.io/Astrotech/) / [💻 Código](https://github.com/Nayana-Oliveira/Astrotech)      |
+
+*Você pode ver mais projetos no meu [portfólio completo](https://portifolio-dev-ashen.vercel.app/).*
+
+---
 
 ## Onde me encontrar
 
--  **LinkedIn:** [Nayana Oliveira](https://www.linkedin.com/in/nayana-oliveira/)  
--  **Portfólio:** [Acesse aqui](https://portifolio-dev-ashen.vercel.app/)  
-- **Email:** nayanaheslley123@gmail.com  
+-  **LinkedIn:** [Nayana Oliveira](https://www.linkedin.com/in/nayana-heslley-barbosa-oliveira-65796537b/) 
+-  **Portfólio:** [Acesse aqui](https://portifolio-dev-ashen.vercel.app/) 
+- **Email:** nayanaheslley123@gmail.com
