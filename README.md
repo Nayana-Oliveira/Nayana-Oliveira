@@ -29,14 +29,6 @@ Sempre em busca de aprimorar meus conhecimentos e explorar novas tecnologias.
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayana-Oliveira&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayana-Oliveira&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-</div>
-
----
 
 ## Projetos em Destaque
 
